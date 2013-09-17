@@ -1,0 +1,148 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot');
+	src:url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.woff') format('woff'),
+		url('../fonts/icomoon.ttf') format('truetype'),
+		url('../fonts/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'icomoon';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-home, .icon-image, .icon-qrcode, .icon-pushpin, .icon-cog, .icon-remove, .icon-numbered-list, .icon-link, .icon-arrow-right, .icon-arrow-left, .icon-github, .icon-github-2, .icon-chrome, .icon-firefox, .icon-IE, .icon-opera, .icon-safari, .icon-switch, .icon-search, .icon-feed, .icon-number, .icon-number-2, .icon-number-3, .icon-number-4, .icon-number-5, .icon-number-6, .icon-number-7, .icon-number-8, .icon-number-9, .icon-number-10, .icon-selectionadd, .icon-loop, .icon-user-add, .icon-sanjit-saha-afro, .icon-businesscard2, .icon-envelope {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-home:before {
+	content: "\61";
+}
+.icon-image:before {
+	content: "\62";
+}
+.icon-qrcode:before {
+	content: "\64";
+}
+.icon-pushpin:before {
+	content: "\66";
+}
+.icon-cog:before {
+	content: "\68";
+}
+.icon-remove:before {
+	content: "\69";
+}
+.icon-numbered-list:before {
+	content: "\6a";
+}
+.icon-link:before {
+	content: "\6b";
+}
+.icon-arrow-right:before {
+	content: "\6d";
+}
+.icon-arrow-left:before {
+	content: "\6e";
+}
+.icon-github:before {
+	content: "\71";
+}
+.icon-github-2:before {
+	content: "\70";
+}
+.icon-chrome:before {
+	content: "\72";
+}
+.icon-firefox:before {
+	content: "\73";
+}
+.icon-IE:before {
+	content: "\74";
+}
+.icon-opera:before {
+	content: "\75";
+}
+.icon-safari:before {
+	content: "\76";
+}
+.icon-switch:before {
+	content: "\77";
+}
+.icon-search:before {
+	content: "\78";
+}
+.icon-feed:before {
+	content: "\7a";
+}
+.icon-number:before {
+	content: "\31";
+}
+.icon-number-2:before {
+	content: "\32";
+}
+.icon-number-3:before {
+	content: "\33";
+}
+.icon-number-4:before {
+	content: "\34";
+}
+.icon-number-5:before {
+	content: "\35";
+}
+.icon-number-6:before {
+	content: "\36";
+}
+.icon-number-7:before {
+	content: "\37";
+}
+.icon-number-8:before {
+	content: "\38";
+}
+.icon-number-9:before {
+	content: "\39";
+}
+.icon-number-10:before {
+	content: "\30";
+}
+.icon-selectionadd:before {
+	content: "\2b";
+}
+.icon-loop:before {
+	content: "\63";
+}
+.icon-user-add:before {
+	content: "\65";
+}
+.icon-sanjit-saha-afro:before {
+	content: "\6c";
+}
+.icon-businesscard2:before {
+	content: "\6f";
+}
+.icon-envelope:before {
+	content: "\67";
+}
